@@ -33,4 +33,5 @@ Centro Tecnológico de Formación Profesional Paraguay - Japón
 
 ---
 **Autores** Guillermo Martinez, Alejandro Alonso
+---
 **Nota:** Este repositorio contiene únicamente la documentación del proyecto LibreBlog.
