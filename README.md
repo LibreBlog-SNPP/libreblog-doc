@@ -32,6 +32,9 @@ Centro Tecnológico de Formación Profesional Paraguay - Japón
 **Carrera:** Técnico Superior en Programación de Aplicaciones Informática
 
 ---
-**Autores** Guillermo Martinez, Alejandro Alonso
+**Autores** 
+Guillermo Martinez
+Alejandro Alonso
+
 ---
 **Nota:** Este repositorio contiene únicamente la documentación del proyecto LibreBlog.
